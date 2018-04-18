@@ -39,7 +39,7 @@ export const PRODUCT_DATA = [
       'Z Insurance': 'S$2,500',
     },
   }, {
-    detail_label: 'Additional excess each time your car is damaged by a driver under 27 years old',
+    detail_label: 'Additional excess each time your car is accidentally damaged by a driver under 27 years old',
     values: {
       'Z Insurance': 'S$2,500',
     },

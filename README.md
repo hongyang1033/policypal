@@ -11,7 +11,11 @@ cd policypal
 
 # 3 Install all node packages
 npm install
+- For yarn user
+yarn install
 
 # 4 Start the server
 npm start
+- For yarn user
+yarn start
 ```
